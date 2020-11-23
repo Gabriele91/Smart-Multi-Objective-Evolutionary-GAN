@@ -1,4 +1,4 @@
-# Smart-Multi-Objective Evolutionary GAN
+# Smart Multi-Objective Evolutionary GAN
 Official Smart Multi-Objective Evolutionary GAN implementation.
 
 ![Diagram](imgs/SMO-EGAN.png?raw=true "Diagram")
