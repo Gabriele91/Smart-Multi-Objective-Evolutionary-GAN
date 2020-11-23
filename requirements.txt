@@ -1,0 +1,22 @@
+# before install 
+#    libhdf5-dev
+#    libwebp-dev
+numpy==1.16.4
+wheel
+mkl
+bode 
+sphinx 
+pydot-ng 
+parameterized 
+scipy 
+sklearn 
+pillow 
+matplotlib 
+h5py==2.7.1 #pypy
+googledrivedownloader
+scikit-image
+tqdm
+lmdb
+webp
+https://github.com/Theano/Theano/archive/master.zip
+https://github.com/Lasagne/Lasagne/archive/master.zip 
